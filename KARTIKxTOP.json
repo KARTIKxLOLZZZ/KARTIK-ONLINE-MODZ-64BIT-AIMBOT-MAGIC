@@ -1,10 +1,6 @@
 {
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"false",
-    "servermeassage":"Wait We Are Working On A New Update",
-    "opentime":"Just Wait Few More Times",
-    "libs":"https://github.com/KARTIKxLOLZZZ/KARTIK-ONLINE-MODZ-64BIT-AIMBOT-MAGIC/raw/refs/heads/main/KARTIK.zip",
-    "notice_title":"Welcome Vip Mod",
-    "notice_body":""
+    "serverstatus":"true",
+    "servermeassage":"Wait For New Update",
+    "tg_name":"Welcome Vip Mod",
+    "libs":""
 }
